@@ -65,7 +65,7 @@ _Make sure to add and commit your changes when you've got the html done!_
 1. Style the title of each of your blog posts so that they are larger.
 1. Style the 'continues...' anchor tags so that they are aligned to the right and are bold and tomato colored.
 1. Set the margin on the bottom the `article` tags to be `4rem`. Also, add a `1px` solid border in `lightgray` to the bottom of each one and give each padding on the bottom of `2rem`.
-1. For the `p` tag inside your `article`, use the [pseudo-element ::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter) to style the drop cap and set it's color to `lightgray`.
+1. For the `p` tag inside your `article`, use the [pseudo-element ::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter) to style the drop cap and set it's color to `lightgray` [Drop Caps Css tricks](https://css-tricks.com/snippets/css/drop-caps/).
 1. Style the copyright so it is `lightgray`.
 
 _Awesome job, add, commit and push changes to create your pull request!_
