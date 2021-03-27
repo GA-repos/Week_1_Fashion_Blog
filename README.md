@@ -19,14 +19,6 @@ owners of this repository:
 1. Change into the new directory and create a development branch to work on.
 1. Fulfill the listed requirements.
 
-When you have fulfilled the requirements below, make a pull request on this
-repository to turn in your work.
-
-This homework is due Saturday 04/03 @ 9AM.
-
-### Prep for JavaScript Data Types
-
-Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
 
 ## Requirements
 
@@ -68,7 +60,6 @@ _Make sure to add and commit your changes when you've got the html done!_
 1. For the `p` tag inside your `article`, use the [pseudo-element ::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter) to style the drop cap and set it's color to `lightgray` [Drop Caps Css tricks](https://css-tricks.com/snippets/css/drop-caps/).
 1. Style the copyright so it is `lightgray`.
 
-_Awesome job, add, commit and push changes to create your pull request!_
 
 ### Bonus
 
