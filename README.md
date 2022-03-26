@@ -2,6 +2,15 @@
 
 # Fashion Blog
 
+When you have fulfilled the requirements below, make a pull request on this
+repository to turn in your work.
+
+This homework is due Saturday 04/02 @ 9AM.
+
+### Prep for JavaScript Data Types
+
+Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
+
 Hone your skills in HTML & CSS by building a page that is based on a mock up!
 
 ## Prerequisites
@@ -54,12 +63,16 @@ _Make sure to add and commit your changes when you've got the html done!_
 1. For the `h1` on the page we want the color to be `tomato`.
 1. Set all of the images to have a `width` of `100%`.
 1. For your site navigation, you'll need to remove all of the padding on the `ul` elements and then set it's `list-style-type` to `none`. It would be a good idea to use a class to style the navigation so that you can still make a bulleted list on your page. Use Flexbox to style the `ul` for the navigation elements. On the top navigation use the `space-between` rule to have the menu items spread across their container evenly. Set the color for the anchors inside the main navigation to be `lightgray` and the footer navigation to be `tomato`.
-1. Style the title of each of your blog posts so that they are larger.
-1. Style the 'continues...' anchor tags so that they are aligned to the right and are bold and tomato colored.
-1. Set the margin on the bottom the `article` tags to be `4rem`. Also, add a `1px` solid border in `lightgray` to the bottom of each one and give each padding on the bottom of `2rem`.
-1. For the `p` tag inside your `article`, use the [pseudo-element ::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter) to style the drop cap and set it's color to `lightgray` [Drop Caps Css tricks](https://css-tricks.com/snippets/css/drop-caps/).
-1. Style the copyright so it is `lightgray`.
 
+
+3. Style the title of each of your blog posts so that they are larger.
+4. Style the 'continues...' anchor tags so that they are aligned to the right and are bold and tomato colored.
+5. Set the margin on the bottom the `article` tags to be `4rem`. Also, add a `1px` solid border in `lightgray` to the bottom of each one and give each padding on the bottom of `2rem`.
+6. For the `p` tag inside your `article`, use the [pseudo-element ::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter) to style the drop cap and set it's color to `lightgray` [Drop Caps Css tricks](https://css-tricks.com/snippets/css/drop-caps/).
+7. Style the copyright so it is `lightgray`.
+
+
+To submit, make a pull request from your fork and development branch!
 
 ### Bonus
 
